@@ -1,2 +1,17 @@
-# python-basics-practice
-A collection of 10 beginner-friendly Python programs covering loops, conditions, functions, and data types.
+# Python Basics Practice
+
+This repository contains 10 Python programs covering:
+
+- Loops
+- Conditions
+- Functions
+- Data types
+
+## How to Run
+- Install Python 3.x
+- Run each `.py` file in your preferred IDE or terminal
+
+## Skills Practiced
+- Problem-solving
+- Basic Python programming
+- Algorithmic thinking
