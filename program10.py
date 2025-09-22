@@ -1,0 +1,10 @@
+name = input("Enter Name: ")
+roll_no = input("Enter Roll No: ")
+cgpa = input("Enter CGPA: ")
+branch = input("Enter Branch: ")
+
+print("\n--- Student Info ---")
+print("Name   :", name)
+print("Roll No:", roll_no)
+print("CGPA   :", cgpa)
+print("Branch :", branch)
